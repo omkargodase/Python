@@ -24,7 +24,7 @@ def WebLauncher(path):
                 webbrowser.open(str, new = 2)
 
 def main():
-    print("@@@@@@@@@@ WEB LAUNCHER BY OMII GODASE @@@@@@@@@@")
+    print("@@@@@@@@@@@ WEB LAUNCHER BY OMII GODASE @@@@@@@@@@@")
 
     print("Application Name :"+argv[0])
 
