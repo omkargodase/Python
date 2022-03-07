@@ -11,7 +11,7 @@ from sys import *
 # Input 		: Absolute Path Of Directory Through Command Line
 # Output 		: Names Of Folders, Subfolders & Files 
 # Author 		: Omkar Rajendra Godase
-# Date 			: 07/03/2022  
+# Date 			: 07/01/2022  
 ##################################################################################
 
 def TraverseDir(path):
@@ -42,7 +42,7 @@ def TraverseDir(path):
 # Function Name 	: Main
 # Description 		: Main Function From Where Execution Starts
 # Author 		: Omkar Rajendra Godase
-# Date 			: 07/03/2022  
+# Date 			: 07/01/2022  
 ##################################################################################
 
 def main():
