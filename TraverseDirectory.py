@@ -6,8 +6,8 @@ import os
 from sys import *
 
 ##################################################################################
-# Function Name : TraverseDir
-# Description 	: Travels Whole Directory Including Subdirectories & Files
+# Function Name 	: TraverseDir
+# Description 		: Travels Whole Directory Including Subdirectories & Files
 # Input 		: Absolute Path Of Directory Through Command Line
 # Output 		: Names Of Folders, Subfolders & Files 
 # Author 		: Omkar Rajendra Godase
@@ -39,8 +39,8 @@ def TraverseDir(path):
 		print("NO SUCH DIRECTORY FOUND")
 
 ##################################################################################
-# Function Name : Main
-# Description 	: Main Function From Where Execution Starts
+# Function Name 	: Main
+# Description 		: Main Function From Where Execution Starts
 # Author 		: Omkar Rajendra Godase
 # Date 			: 07/03/2022  
 ##################################################################################
